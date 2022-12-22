@@ -7,7 +7,7 @@ const axios = require("axios")
 const { blue, blueBright, red, green } = require("colorette");
 const Discord = require("discord.js");
 const { WebhookClient } = require('discord.js');
-
+console.clear();
 console.log(blueBright(` $$$$$$\\                          `))
 console.log(blue(`$$  __$$\\                         `))
 console.log(blueBright(`$$ /  $$ |$$\\  $$$$$$\\  $$\\   $$\\ `))
